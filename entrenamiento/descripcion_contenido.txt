@@ -1,1 +1,2 @@
 
+Ejercicios_Bootcamp.ipynb contiene los ejercicios en python que se realizaron para la fase de Entrenamiento, estos se trabajaron en Google Colab 
