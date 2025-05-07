@@ -1,2 +1,4 @@
 
 Ejercicios_Bootcamp.ipynb contiene los ejercicios en python que se realizaron para la fase de Entrenamiento, estos se trabajaron en Google Colab 
+
+actividad_cifrado_cesar.pdf contiene el desarrollo de la actividad de la sección de Entrenamiento de la Unidad 1
